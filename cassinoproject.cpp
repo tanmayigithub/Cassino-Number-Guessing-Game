@@ -7,7 +7,7 @@ using namespace std;
 void rules (); //Rules of the game
 
 int main ()
-{
+{ 
 string Name;
 int Amount;
 int BiddingAmount;
